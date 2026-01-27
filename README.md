@@ -26,6 +26,7 @@ Confira o bot em ação e junte-se à nossa comunidade:
 | **Bot Oficial**        | 👉 [@NextMessageBot](https://t.me/NextMessageBot)           |
 | **Canal de Novidades** | 👉 [@BotNovidades](https://t.me/BotNovidades)               |
 | **Grupo de Discussão** | 👉 [Grupo do @BotNovidades](https://t.me/+7Igu38iX7Ns5YjUx) |
+| **Dev** | 👉 [Desenvolvedor do Bot](https://t.me/LeonardoAragao) |
 
 ---
 
