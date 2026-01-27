@@ -121,3 +121,6 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 ### 📄 Licença
 
 Este projeto está sob a licença [GPL-3.0](https://github.com/LeonardoAragaoDev/next-message-telegram-bot/blob/master/LICENSE).
+
+### 🧑🏻‍💻 Desenvolvedor
+Desenvolvido com ❤️ por [Leonardo Aragão Dev](https://github.com/LeonardoAragaoDev).
